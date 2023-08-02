@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/messenger.png</file>
+        <file>icons/contacts.png</file>
+    </qresource>
+</RCC>

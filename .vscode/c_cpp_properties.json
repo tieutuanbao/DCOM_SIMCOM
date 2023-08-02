@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/../build-DCOM_simcom-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/**",
+                "C:\\Qt\\Qt5.14.2\\5.14.2\\mingw73_32\\include\\**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\Qt\\Qt5.14.2\\Tools\\mingw730_32\\bin\\g++.exe",
+            "intelliSenseMode": "gcc-x86",
+            "cStandard": "c11",
+            "cppStandard": "c++11"
+        }
+    ],
+    "version": 4
+}
